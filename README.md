@@ -31,15 +31,15 @@ This Hospital Management System (HMS) is designed to provide a way to manage pat
 
 ## 3. Functional Requirements
 
-    **3.1 User Operations**
+### 3.1 User Operations
 
-### 1.	Add a Patient:
+ ### 1.	Add a Patient:
 
      Users should be able to enter patient details including ID, Name, Age, and Disease.
 
      The system should validate ID and Age as numeric values to prevent incorrect input.
 
-**2.View All Patients:**
+ **2.View All Patients:**
 
           The system should display a list of all saved patient records.
 
